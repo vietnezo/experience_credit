@@ -1,0 +1,6 @@
+[programs.devnet]
+solana_experience_credit = ""
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
